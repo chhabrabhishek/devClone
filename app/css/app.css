@@ -1,0 +1,28 @@
+#spacer {
+	height: 25px;
+}
+
+.header-action-space {
+	margin-right: 8px;
+}
+
+.posts-row {
+	margin-bottom: 25px;
+}
+
+.search {
+	display: none;
+	margin-bottom: 25px;
+}
+
+.reaction {
+	color: grey !important;
+}
+
+.loading {
+	font-size: 12px;
+	bottom: 0px; left: 0px;
+	color: white !important;
+	position: fixed !important;
+	background: rgba(0, 0, 0, 0.75) !important;
+}
